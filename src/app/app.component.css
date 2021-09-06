@@ -1,0 +1,15 @@
+.container {
+    margin-top: 30px;
+}
+
+.add-tarefa {
+    margin-bottom: 30px;
+}
+
+.list-tarefa {
+    margin-bottom: 50px;
+}
+
+.btn-add-tarefa {
+    margin-right: 10px;
+}
